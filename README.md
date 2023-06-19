@@ -94,7 +94,7 @@ Below is an overview of the app.
 <!-- LIVE DEMO -->
 ## <b>Live Demo 🚀</b><a name="live-demo"></a>
 
-This project is hosted on [GitHub pages](#deployment), so if you want to check it online, please click 😊 [here](https://lily4178993.github.io/To-do-list/dist/).
+This project is hosted on [GitHub pages](#deployment), so if you want to check it online, please click 😊 [here](https://lily4178993.github.io/To-do-list-review/dist/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
